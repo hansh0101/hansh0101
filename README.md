@@ -17,3 +17,5 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hansh0101)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansh0101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
