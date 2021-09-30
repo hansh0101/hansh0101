@@ -1,9 +1,5 @@
 <p align="center">🇰🇷</p>
 
-<h3 align="center">👊 SKILLS 👊</h3>
-
-<p align="center"> Techs that I've used at least once </p>
-
 <p align="center">
 	<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
