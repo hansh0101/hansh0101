@@ -33,14 +33,23 @@
 - [boostcamp](https://boostcamp.connect.or.kr) (네이버 커넥트재단 주관 개발자의 지속 가능한 성장을 위한 학습 커뮤니티) 6기 웹・모바일 챌린지 수료
 - [SOPT](https://sopt.org) (대학생 연합 IT벤처창업 동아리) 28기 Android 파트 수료
 
+### Internship
 <p>
 	<a href="https://techblog.woowahan.com/8154">
 		<img width="100" src="https://user-images.githubusercontent.com/81508084/206861669-0cd285cf-39d2-4750-a3d1-3e5b8b91f768.png">&nbsp;&nbsp;
 	</a>
+</p>
+
+### Community
+
+<p>
 	<a href="https://boostcamp.connect.or.kr">
 		<img height="100" src="https://user-images.githubusercontent.com/81508084/206861827-0171befd-14da-47c5-bc09-74d6f0743e78.png">
 	</a>
 </p>
+
+### Projects in 2022
+
 <p>
 	<a href="https://github.com/TeamDearToday/Deartoday-Android">
 		<img width="100" src="https://user-images.githubusercontent.com/81508084/206861925-e2bda85d-7c30-4c27-a9c0-7fc5836dbeb9.png">&nbsp;&nbsp;
@@ -55,6 +64,9 @@
 		<img width="100" src="https://user-images.githubusercontent.com/81508084/206862019-4f92ce4a-5509-47a8-8241-bf6797e57339.png">
 	</a>
 </p>
+
+### Projects in 2021
+
 <p>
 	<a href="https://github.com/TeamChaRo/ChaRo-Android">
 		<img width="100" src="https://user-images.githubusercontent.com/81508084/206862089-d4637490-5b47-49b7-b6a3-09cf535fd21c.png">&nbsp;&nbsp;
