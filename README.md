@@ -27,6 +27,7 @@
 > 2022
 - [우아한테크캠프](https://techblog.woowahan.com/8154) (우아한형제들 채용 연계형 교육 프로그램) 5기 모바일 안드로이드 과정 수료
 - [SOPT](https://sopt.org) (대학생 연합 IT벤처창업 동아리) 30기 Android 파트 수료 + MVP 수상
+- [땅울림 자료구조 스터디](https://github.com/Landvibe-DataStructure-2022/references) (인하대학교 컴퓨터공학과 축구소모임 내 자료구조 스터디) 스터디장
 
 > 2021
 - [SOPT](https://sopt.org) (대학생 연합 IT벤처창업 동아리) 29기 Android 파트 수료
@@ -44,7 +45,10 @@
 
 <p>
 	<a href="https://boostcamp.connect.or.kr">
-		<img height="100" src="https://user-images.githubusercontent.com/81508084/206861827-0171befd-14da-47c5-bc09-74d6f0743e78.png">
+		<img height="100" src="https://user-images.githubusercontent.com/81508084/206861827-0171befd-14da-47c5-bc09-74d6f0743e78.png">&nbsp;&nbsp;
+	</a>
+	<a href="https://github.com/Landvibe-DataStructure-2022/references">
+		<img height="100" src="https://avatars.githubusercontent.com/u/101272702?s=200&v=4">&nbsp;&nbsp
 	</a>
 </p>
 
