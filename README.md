@@ -13,6 +13,9 @@
 
 
 ## Projects
+> 2023
+* [Notepad](https://github.com/hansh0101/Notepad) (Android Developer) : 메모장 프로젝트 (개인 프로젝트)
+
 > 2022
 * [Dear today](https://github.com/TeamDearToday/Deartoday-Android) (Android Lead Developer) : 시간 여행을 통해 지금의 행복을 발견해주는 스토리텔링형 게임 서비스 (30기 SOPT App-Jam)
 * [HACKER](https://play.google.com/store/apps/details?id=com.teamzzong.hacker) (Android Developer) : 개발자를 위한 커밋 기반 캐릭터 육성 서비스
