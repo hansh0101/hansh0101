@@ -18,7 +18,7 @@
 
 > 2022
 * [Dear today](https://github.com/TeamDearToday/Deartoday-Android) (Android Lead Developer) : 시간 여행을 통해 지금의 행복을 발견해주는 스토리텔링형 게임 서비스 (30기 SOPT App-Jam)
-* [HACKER](https://play.google.com/store/apps/details?id=com.teamzzong.hacker) (Android Developer) : 개발자를 위한 커밋 기반 캐릭터 육성 서비스
+* HACKER (Android Developer) : 개발자를 위한 커밋 기반 캐릭터 육성 서비스
 * [오시내시](https://github.com/30th-SOPKATHON-8/Sopkathon-Android) (Android Lead Developer) : 나의 감정기록 가계부 (30기 SOPT 솝커톤)
 * [비마이플랜](https://github.com/TeamBeMyPlan/BeMyPlan-Android) (Android Lead Developer) : 당신의 여행 일정 스토어 (29기 SOPT App-Jam)
 
@@ -61,7 +61,7 @@
 	<a href="https://github.com/TeamDearToday/Deartoday-Android">
 		<img width="100" src="https://user-images.githubusercontent.com/81508084/206861925-e2bda85d-7c30-4c27-a9c0-7fc5836dbeb9.png">&nbsp;&nbsp;
 	</a>
-	<a href="https://play.google.com/store/apps/details?id=com.teamzzong.hacker">
+	<a>
 		<img width="100" src="https://user-images.githubusercontent.com/56147398/178940214-b72ad2fd-768d-423f-90f9-9e6ec6d491c4.png">&nbsp;&nbsp;
 	</a>
 	<a href="https://github.com/30th-SOPKATHON-8/Sopkathon-Android">
