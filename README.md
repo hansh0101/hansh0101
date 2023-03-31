@@ -1,6 +1,6 @@
 
-# Seunghyeon Han(Iceman)
-### Student & Android Developer
+# Seunghyeon Han(ONE A.K.A Iceman)
+### Android Junior Developer
 
 ## Profile
 ### Education
