@@ -14,6 +14,7 @@
 
 ## Projects
 > 2023
+* [SOPT 공식 앱](https://github.com/sopt-makers/sopt-android) (Android Developer) : 전국 대학생 연합 IT벤처창업 동아리 SOPT의 공식 앱 서비스 (SOPT makers 2기)
 * [Notepad](https://github.com/hansh0101/Notepad) (Android Developer) : 메모장 프로젝트 (개인 프로젝트)
 
 > 2022
@@ -52,6 +53,17 @@
 	</a>
 	<a href="https://github.com/Landvibe-DataStructure-2022/references">
 		<img height="100" src="https://avatars.githubusercontent.com/u/101272702?s=200&v=4">&nbsp;&nbsp
+	</a>
+</p>
+
+### Project in 2023
+
+<p>
+	<a href="https://github.com/sopt-makers/sopt-android">
+		<img width="100" src="https://user-images.githubusercontent.com/81508084/230751040-b1cfd312-7775-4786-89c0-6873e26b6695.png">&nbsp;&nbsp;
+	</a>
+	<a href="https://github.com/hansh0101/Notepad">
+		<img width="100" src="https://user-images.githubusercontent.com/81508084/230751073-62a2d363-e6b1-4318-b12c-6cf0cd8e99ac.png">&nbsp;&nbsp;
 	</a>
 </p>
 
