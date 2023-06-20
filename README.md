@@ -1,5 +1,5 @@
 
-# Seunghyeon Han(ONE A.K.A Iceman)
+# Seunghyeon Han(A.K.A Iceman)
 ### Android Junior Developer
 
 ## Profile
