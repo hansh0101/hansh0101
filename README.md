@@ -15,7 +15,6 @@
 ## Projects
 > 2023
 * [SOPT 공식 앱](https://github.com/sopt-makers/sopt-android) (Android Developer) : 전국 대학생 연합 IT벤처창업 동아리 SOPT의 공식 앱 서비스 (SOPT makers 2기)
-* [Notepad](https://github.com/hansh0101/Notepad) (Android Developer) : 메모장 프로젝트 (개인 프로젝트)
 
 > 2022
 * [Dear today](https://github.com/TeamDearToday/Deartoday-Android) (Android Lead Developer) : 시간 여행을 통해 지금의 행복을 발견해주는 스토리텔링형 게임 서비스 (30기 SOPT App-Jam)
