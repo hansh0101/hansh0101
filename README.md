@@ -4,7 +4,7 @@
 
 ## Profile
 ### Education
-인하대학교 컴퓨터공학과<br>
+인하대학교 컴퓨터공학과 졸업<br>
 
 ## Tech Stack
 <p align="left">
