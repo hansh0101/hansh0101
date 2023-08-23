@@ -61,9 +61,6 @@
 	<a href="https://github.com/sopt-makers/sopt-android">
 		<img width="100" src="https://user-images.githubusercontent.com/81508084/230751040-b1cfd312-7775-4786-89c0-6873e26b6695.png">&nbsp;&nbsp;
 	</a>
-	<a href="https://github.com/hansh0101/Notepad">
-		<img width="100" src="https://user-images.githubusercontent.com/81508084/230751073-62a2d363-e6b1-4318-b12c-6cf0cd8e99ac.png">&nbsp;&nbsp;
-	</a>
 </p>
 
 ### Projects in 2022
