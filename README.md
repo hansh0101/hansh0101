@@ -1,10 +1,6 @@
 
-# Seunghyeon Han(A.K.A Iceman)
+# Iceman
 ### Android Junior Developer
-
-## Profile
-### Education
-인하대학교 컴퓨터공학과 졸업<br>
 
 ## Tech Stack
 <p align="left">
