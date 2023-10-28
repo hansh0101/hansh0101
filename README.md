@@ -36,7 +36,7 @@
 ### Internship
 <p>
 	<a href="https://techblog.woowahan.com/8154">
-		<img width="100" src="https://user-images.githubusercontent.com/81508084/206861669-0cd285cf-39d2-4750-a3d1-3e5b8b91f768.png">&nbsp;&nbsp;
+		<img width="100" src="https://user-images.githubusercontent.com/81508084/206861669-0cd285cf-39d2-4750-a3d1-3e5b8b91f768.png">
 	</a>
 </p>
 
@@ -47,7 +47,7 @@
 		<img height="100" src="https://user-images.githubusercontent.com/81508084/206861827-0171befd-14da-47c5-bc09-74d6f0743e78.png">&nbsp;&nbsp;
 	</a>
 	<a href="https://github.com/Landvibe-DataStructure-2022/references">
-		<img height="100" src="https://avatars.githubusercontent.com/u/101272702?s=200&v=4">&nbsp;&nbsp
+		<img height="100" src="https://avatars.githubusercontent.com/u/101272702?s=200&v=4">
 	</a>
 </p>
 
@@ -55,7 +55,7 @@
 
 <p>
 	<a href="https://github.com/sopt-makers/sopt-android">
-		<img width="100" src="https://user-images.githubusercontent.com/81508084/230751040-b1cfd312-7775-4786-89c0-6873e26b6695.png">&nbsp;&nbsp;
+		<img width="100" src="https://user-images.githubusercontent.com/81508084/230751040-b1cfd312-7775-4786-89c0-6873e26b6695.png">
 	</a>
 </p>
 
