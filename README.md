@@ -1,6 +1,6 @@
 
 # Iceman
-### Android Junior Developer
+### Junior Developer
 
 ## Tech Stack
 <p align="left">
