@@ -1,6 +1,6 @@
 
 # Iceman
-### Junior Developer
+### 모바일 앱 개발에 관심있는 주니어 개발자입니다.
 
 ## Tech Stack
 <p align="left">
