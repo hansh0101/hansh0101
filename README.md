@@ -2,6 +2,10 @@
 # Iceman
 ### 모바일 앱 개발에 관심있는 주니어 개발자입니다.
 
+## Career
+* 새마을금고중앙회 IT부문 IT품질관리부(2024.02 ~ Now)
+* 새마을금고중앙회 IT부문 디지털개발부(2023.12 ~ 2024.02)
+
 ## Tech Stack
 <p align="left">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
