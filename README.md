@@ -1,6 +1,6 @@
 
 # Iceman
-### 모바일 앱 개발에 관심있는 주니어 개발자입니다.
+### 모바일 앱 개발을 했던, 이제는 웹 FE와 BE를 다루는 주니어 개발자입니다.
 
 ## Career
 * 새마을금고중앙회 IT디지털개발본부 디지털개발부
@@ -18,12 +18,10 @@
 > 2022
 * [Dear today](https://github.com/TeamDearToday/Deartoday-Android) (Android Lead Developer) : 시간 여행을 통해 지금의 행복을 발견해주는 스토리텔링형 게임 서비스 (30기 SOPT App-Jam)
 * [HACKER](https://github.com/zaranaramorimori/HACKER-ANDROID) (Android Developer) : 개발자를 위한 커밋 기반 캐릭터 육성 서비스
-* [오시내시](https://github.com/30th-SOPKATHON-8/Sopkathon-Android) (Android Lead Developer) : 나의 감정기록 가계부 (30기 SOPT 솝커톤)
 * [비마이플랜](https://github.com/TeamBeMyPlan/BeMyPlan-Android) (Android Lead Developer) : 당신의 여행 일정 스토어 (29기 SOPT App-Jam)
 
 > 2021
 * [차로](https://github.com/TeamChaRo/ChaRo-Android) (Android Developer) : 차에서의 오늘이 최고가 될 수 있게, 당신의 드라이브 메이트 (28기 SOPT App-Jam)
-* [HIPPER](https://github.com/SOPTAKTHON/Hipper_android) (Android Developer) : 당신의 HIP한 기억을 되돌려 드립니다, 엉덩이 기억 상실 증후군 예방 서비스 (28기 SOPT 솝커톤)
 
 ## Experience
 > 2022
@@ -32,9 +30,8 @@
 - [땅울림 자료구조 스터디](https://github.com/Landvibe-DataStructure-2022/references) (인하대학교 컴퓨터공학과 축구소모임 내 자료구조 스터디) 스터디장
 
 > 2021
-- [SOPT](https://sopt.org) (대학생 연합 IT벤처창업 동아리) 29기 Android 파트 수료
+- [SOPT](https://sopt.org) (대학생 연합 IT벤처창업 동아리) 28기 ~ 29기 Android 파트 수료
 - [boostcamp](https://boostcamp.connect.or.kr) (네이버 커넥트재단 주관 개발자의 지속 가능한 성장을 위한 학습 커뮤니티) 6기 웹・모바일 챌린지 수료
-- [SOPT](https://sopt.org) (대학생 연합 IT벤처창업 동아리) 28기 Android 파트 수료
 
 ### Internship
 <p>
@@ -71,9 +68,6 @@
 	<a href="https://github.com/zaranaramorimori/HACKER-ANDROID">
 		<img width="100" src="https://user-images.githubusercontent.com/56147398/178940214-b72ad2fd-768d-423f-90f9-9e6ec6d491c4.png">&nbsp;&nbsp;
 	</a>
-	<a href="https://github.com/30th-SOPKATHON-8/Sopkathon-Android">
-		<img width="100" src="https://user-images.githubusercontent.com/81508084/206861954-74d074cc-f935-459f-8095-7a0e0f2dc1e9.png">&nbsp;&nbsp;
-	</a>
 	<a href="https://github.com/TeamBeMyPlan/BeMyPlan-Android">
 		<img width="100" src="https://user-images.githubusercontent.com/81508084/206862019-4f92ce4a-5509-47a8-8241-bf6797e57339.png">
 	</a>
@@ -84,8 +78,5 @@
 <p>
 	<a href="https://github.com/TeamChaRo/ChaRo-Android">
 		<img width="100" src="https://user-images.githubusercontent.com/81508084/206862089-d4637490-5b47-49b7-b6a3-09cf535fd21c.png">&nbsp;&nbsp;
-	</a>
-	<a href="https://github.com/SOPTAKTHON/Hipper_android">
-		<img width="100" src="https://user-images.githubusercontent.com/81508084/206862167-67ca4dbf-ff16-4377-abfb-3f1ac0bbdb1b.png">
 	</a>
 </p>
